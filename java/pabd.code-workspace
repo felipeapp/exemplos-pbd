@@ -12,6 +12,9 @@
         {
             "path": "Ex_03_Gradle",
         },
+        {
+            "path": "Ex_04_JDBC_Injecao",
+        },
     ],
     "settings": {
         "java.project.sourcePaths": ["src"],
