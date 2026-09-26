@@ -1,0 +1,4 @@
+java/.metadata
+java/**/.*
+**/bin
+**/build
