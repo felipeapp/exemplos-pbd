@@ -1,6 +1,6 @@
-# Programação com Acesso a Banco de Dados
+# Projeto de Banco de Dados
 
-Exemplos da disciplina Programação com Acesso a Banco de Dados (2026.1) para o curso Técnico Integrado em Informática do Campus IFRN de São Gonçalo do Amarante.
+Exemplos da disciplina Projeto de Banco de Dados (2026.2) para o curso Técnico Integrado em Informática do Campus IFRN de São Gonçalo do Amarante.
 
 ## Acesso ao Servidor MySQL do LADIR
 
